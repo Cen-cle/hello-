@@ -7,10 +7,6 @@
 >rrrr
 
 
-[知乎]
+[知乎](https://www.zhihu.com/)
 
-(https://www.zhihu.com/)
-
-![1·.png]
-
-(https://i.loli.net/2019/07/15/5d2c73dff0deb36785.png)
+![1·.png](https://i.loli.net/2019/07/15/5d2c73dff0deb36785.png)
